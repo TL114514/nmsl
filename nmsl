@@ -1,0 +1,24 @@
+local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+本地B='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+
+函数hhcoupnvtnogoyvnvddkfipjnowzMMxgtcklvMrhporcjseoyuelgyfyhjsMwqkveMlMabhzgywlqquedhb(data)M=string.sub(0，55)data=data:gsub(M，')
+
+
+data=string. gsub（data，'[^'.. b..'=]'，'）返回（data:gsub（'.'，函数（x）if（x='='）然后返回''end local r，f='，（b:find（x）-1）for i=6,1，-1 do r=r..（f％2^i-f％2^（i-1）>0 and'1'or'0'）end返回r；end）：gsub（％d％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d？％d
+
+
+query为空
+函数yvjxozlrrrtjqzwotkkexninznkjvmsxnhhphuuh（c）
+tab={}
+因为i=1，#c do
+x=string.len(c[i])
+y=string.char(x)
+插入（tab，y）
+结束
+x=table.concat(tab)
+回报x
+
+
+CoreGui:SetCore(yVjxOZLrrTJQZwOTKkexniNZnkJVMsXnhHpxUUH({HhcoUPnVTnOGOyVnVdDkFIPJnOWzDZmmxgTcMKLkLvmrhPoRCJsEOYUelgYfYHjSMWQKVEMlmaBHznKJgyWlqqUEdhb('ORpPYjysdjpPJKgQIJfeuofsUyhllJWHxwAQofSWhJzIRVnXwgvcFQkKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKio='),HhcoUPnVTnOGOyVnVdDkFIPJnOWzDZmmxgTcMKLkLvmrhPoRCJsEOYUelgYfYHjSMWQKVEMlmaBHznKJgyWlqqUEdhb('pRLMPDfhYGyJMCfzwCZSEuWFiKUQUxnfnHeWhFvNcCqLTnxUphXtSTKKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioq
+
+local CoreGui = game:GetService(yVjxOZLrrTJQZwOTKkexniNZnkJVMsXnhHpxUUH({HhcoUPnVTnOGOyVnVdDkFIPJnOWzDZmmxgTcMKLkLvmrhPoRCJsEOYUelgYfYHjSMWQKVEMlmaBHznKJgyWlqqUEdhb('vsgHgEOyxaSluadYGFyxadOdRiXtjFANCOdpOYEypQMDGTpozetSoFUKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKio='),HhcoUPnVTnOGOyVnVdDkFIPJnOWzDZmmxgTcMKLkLvmrhPoRCJsEOYUelgYfYHjSMWQKVEMlmaBHznKJgyWlqqUEdhb('EpKPkimVPupotXoGyUPhBxmXfgtfRqzrUcZGXJOOlfNsvCWZUjfmTVtKioqKioqKioqKioqKioqKioqKioq
